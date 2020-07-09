@@ -2,4 +2,7 @@
     <string name="app_name">CST407 Assignment2</string>
     <string name="numDiceSides">Number of Sides</string>
     <string name="rollButton">Roll</string>
+    <string name="diceTotal">Dice total</string>
+    <string name="numberOfDiceLabelText">Number of dice</string>
+    <string name="rollResultLableText">Roll result(s)</string>
 </resources>

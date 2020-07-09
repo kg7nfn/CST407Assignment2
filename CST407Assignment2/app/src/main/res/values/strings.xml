@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CST407 Assignment2</string>
+    <string name="numDiceSides">Number of Sides</string>
+    <string name="rollButton">Roll</string>
+</resources>
